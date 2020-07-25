@@ -1,0 +1,6 @@
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\bin\Debug\Midnight Synergy Launcher.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\bin\Debug\Midnight Synergy Launcher.pdb
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\obj\Debug\Midnight Synergy Launcher.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\obj\Debug\Midnight Synergy Launcher.pdb
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\obj\Debug\Midnight_Synergy_Launcher.MainForm.resources
+C:\Users\nasko222\Documents\SharpDevelop Projects\Midnight Synergy Launcher\Midnight Synergy Launcher\obj\Debug\Midnight Synergy Launcher.vbproj.GenerateResource.Cache
